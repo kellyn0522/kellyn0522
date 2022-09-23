@@ -23,8 +23,7 @@ Here are some ideas to get you started:
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkellyn0522%2Fkellyn0522&count_bg=%23EBC1E5&title_bg=%23CCB0E3&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!-- 로고 -->
-<h3 align="center">🛠️ Tech Stack 🛠️
-  <h5 align="center'>Available and Studying Languages</h5></h3>
+<h3 align="center">🛠️ Tech Stack 🛠️</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
