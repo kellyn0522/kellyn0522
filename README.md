@@ -1,4 +1,4 @@
-### Hi there 👋
+### Lee Ga Eun 😄
 
 <!--
 **kellyn0522/kellyn0522** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
