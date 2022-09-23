@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <!-- 배너 꾸미기 -->
-<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Hi!%20I'm%20Gaeun😆&fontSize=80&animation=fadeIn&fontColor=000000&fontAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Hi!%20I'm%20Gaeun😆&fontSize=80&animation=fadeIn&fontColor=000000&fontAlign=50" />
 
 <!-- 방문자수 -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkellyn0522%2Fkellyn0522&count_bg=%23EBC1E5&title_bg=%23CCB0E3&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
