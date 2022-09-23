@@ -30,7 +30,11 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <br>
+  <br>
+  <br>
 </p>
+
+<h3 align="center'>🍀 Follow Me 🍀</h3>
 
 <!-- 통계카드 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kellyn0522&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
