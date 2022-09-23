@@ -32,3 +32,6 @@ Here are some ideas to get you started:
 
 <!-- 통계카드 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kellyn0522&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- 상위언어카드 -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kellyn0522)](https://github.com/anuraghazra/github-readme-stats)
