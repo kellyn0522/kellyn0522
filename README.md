@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <!-- 배너 꾸미기 -->
 
 <!-- 방문자수 -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkellyn0522%2Fkellyn0522&count_bg=%23C9A9DF&title_bg=%2384E1AE&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkellyn0522%2Fkellyn0522&count_bg=%23EBC1E5&title_bg=%23CCB0E3&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!-- 로고 -->
 <p align="center">
